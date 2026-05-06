@@ -40,18 +40,6 @@ http://localhost:5000
 
 ---
 
-## 📸 Screenshots
-
-### Application Running in Browser
-
-(Add your screenshot here)
-
-### Docker Container Running
-
-(Add Docker Desktop screenshot here)
-
----
-
 ## ✅ Features
 
 * Add new tasks
