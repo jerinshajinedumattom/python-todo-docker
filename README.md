@@ -15,7 +15,7 @@ Follow these steps to run the application on your system:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/python-todo-docker.git
+git clone https://github.com/<jerinshajinedumattom>/python-todo-docker.git
 cd python-todo-docker
 ```
 
